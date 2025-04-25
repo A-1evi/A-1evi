@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Alankar Singh
 
-* A passionate Frontend Developer from India 🇮🇳.
+* A passionate Full-Stack Developer from India 🇮🇳.
 * Currently focusing on building responsive and dynamic web applications.
 * Always eager to learn new technologies and improve my craft.
 
