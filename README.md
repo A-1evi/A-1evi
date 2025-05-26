@@ -9,7 +9,7 @@
 ### 🛠️ Languages and Tools
 
 <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/go-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
+    <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" alt="Go" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>&nbsp;
